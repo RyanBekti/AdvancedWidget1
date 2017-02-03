@@ -1,7 +1,7 @@
 # AdvancedWidget1
 JUDUL : AdvancedWidget1<br>
 
-![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXbUxkU2NSMVR2dzQ)<br>
+![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXY0dRXzN2M0JybXc)<br>
 ![SS2](https://docs.google.com/uc?id=0Bz7hPTBvtobXVWFjaUVfbldxRzA)<br>
 
 <br>
