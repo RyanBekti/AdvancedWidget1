@@ -2,7 +2,7 @@
 JUDUL : AdvancedWidget1<br>
 
 ![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXY0dRXzN2M0JybXc)<br>
-![SS2](https://docs.google.com/uc?id=0Bz7hPTBvtobXVWFjaUVfbldxRzA)<br>
+![SS2](https://docs.google.com/uc?id=0Bz7hPTBvtobXcTdXSzlEM0tvR3c)<br>
 
 <br>
 Nama : Ryan Bekti Mahendra<br>
