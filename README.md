@@ -1,8 +1,8 @@
 # AdvancedWidget1
 JUDUL : AdvancedWidget1<br>
 
-![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXNHN5U1JkTkdLbVk)<br>
-![SS2](https://docs.google.com/uc?id=0Bz7hPTBvtobXSWRCS3BJR2IzX2s)<br>
+![SS1](https://docs.google.com/uc?id=0Bz7hPTBvtobXbUxkU2NSMVR2dzQ)<br>
+![SS2](https://docs.google.com/uc?id=0Bz7hPTBvtobXVWFjaUVfbldxRzA)<br>
 
 <br>
 Nama : Ryan Bekti Mahendra<br>
